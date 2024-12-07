@@ -5,6 +5,10 @@ I am a passionate **Blockchain Developer** and tech enthusiast, diving deep into
 ![Shivamani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamani-yamana&show_icons=true&theme=radical)
 
 ---
+## 📊 GitHub Contributions
+![Shivamani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamani-yamana&theme=radical)
+
+---
 
 ## 🌐 Connect with Me
 - 🌍 [Portfolio Website](https://shivamani.netlify.app)
@@ -42,10 +46,6 @@ A REST API with over 15 endpoints featuring JWT-based authorization and bcrypt e
 
 ---
 
-## 📊 GitHub Contributions
-![Shivamani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamani-yamana&theme=radical)
-
----
 
 ### 🚀 Let's Build the Future of Blockchain Together!
 If you're interested in collaborating or discussing blockchain, feel free to reach out or check out my projects. Let's connect!
