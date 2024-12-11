@@ -6,7 +6,7 @@ I am a passionate **Blockchain Developer** and tech enthusiast, diving deep into
 
 ---
 
-## 📊 GitHub Contributions 
+## 📊 GitHub Contributions
 ![Shivamani's GitHub Streak](https://camo.githubusercontent.com/94fa0f1701cfe56cf1d2268a49386ec9dfb074c90756294ce4d9963d72021386/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73686976616d616e692d79616d616e61267468656d653d7261646963616c)
 
 ---
@@ -65,12 +65,10 @@ A REST API with over 15 endpoints featuring JWT-based authorization and bcrypt e
 
 ---
 
-## 🎮 Play a Game
-Did you know you can play a fun terminal game right here? Try it out by clicking the badge below!
-
-[![Play Snake Game](https://img.shields.io/badge/Play%20Snake%20Game-%2312100E.svg?style=for-the-badge&logo=funimation)](https://shivamani-snake-game.vercel.app/)
+### 🚀 Let's Build the Future of Blockchain Together!
+If you're interested in collaborating or discussing blockchain, feel free to reach out or check out my projects. Let's connect!
 
 ---
 
-### 🚀 Let's Build the Future of Blockchain Together!
-If you're interested in collaborating or discussing blockchain, feel free to reach out or check out my projects. Let's connect!
+## 📈 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=shivamani-yamana&color=blue)
