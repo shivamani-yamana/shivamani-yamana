@@ -6,7 +6,7 @@ I am a passionate **Blockchain Developer** and tech enthusiast, diving deep into
 
 ---
 
-## 📊 GitHub Contributions
+## 📊 GitHub Contributions 
 ![Shivamani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamani-yamana&theme=radical)
 
 ---
