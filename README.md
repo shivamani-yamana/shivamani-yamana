@@ -1,74 +1,99 @@
-# 👋 Hi, I'm Shivamani Yamana!
+# 👋 Hey there, I'm Shivamani Yamana!
 
-I am a passionate **Blockchain Developer** and tech enthusiast, diving deep into the world of **Solana** and exploring the cutting-edge possibilities of **Rust** and **Anchor**. With a strong foundation in full-stack development, I thrive on solving complex problems and building scalable, high-performance solutions.
+I’m that person who *needs* to know how things work — not just on the surface, but deep under the hood. Whether it's a blockchain consensus mechanism, a trading algorithm, or the realtime sync behind a multiplayer editor, I love digging into the guts of complex systems and building things that feel smooth, smart, and solid.
+
+I’m currently studying Computer Science at IARE, Hyderabad (B.Tech, 2026), and spend most of my time somewhere between **frontend polish** and **backend logic** — or lost in the weeds of **blockchain tech**, **decentralized protocols**, and **fintech experiments**.
+
+---
 
 ![Shivamani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamani-yamana&show_icons=true&theme=radical)
 
 ---
 
-## 📊 GitHub Contributions
-![Shivamani's GitHub Streak](https://camo.githubusercontent.com/94fa0f1701cfe56cf1d2268a49386ec9dfb074c90756294ce4d9963d72021386/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73686976616d616e692d79616d616e61267468656d653d7261646963616c)
+## 🚀 What I’m All About
+
+My coding journey started with curiosity and hasn’t slowed since. I've worked with Web3 startups, explored frameworks like **SvelteKit**, and built everything from **real-time chess servers** to **collaborative editors** with conflict-free syncing.
+
+Outside code, I dive deep into financial markets and crypto trends — and I freelance as a **video editor**, producing content for algorithmic trading companies. My projects live at the intersection of design, logic, and clarity — whether it’s a smart contract or a story-driven product video.
 
 ---
 
-## 🌐 Connect with Me
-- 🌍 [Portfolio Website](https://shivamani.netlify.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivamaniyamana/)
-- 🖥️ [GitHub](https://github.com/shivamani-yamana)
-- 📧 [Email Me](mailto:shivamaniyamana2003@gmail.com)
+## 🧠 Tech I Speak Fluently
 
----
-
-## 🔧 Technical Skills
-
-### Languages
+### 🛠️ Languages  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+### 🌐 Web & Frameworks  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-F73C00?style=for-the-badge&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SwaggerUI](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+### 🔧 Tools & Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![ThunderClient](https://img.shields.io/badge/ThunderClient-0F0F0F?style=for-the-badge&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-### 🌟 [Coalition Loyalty Point Issuance MVP](https://github.com/Fluorospek/Coalition-Loyalty-Point-Issuance-Page-for-Brands)
-A blockchain-based decentralized loyalty point issuance platform where brands issue tokens redeemable across sub-brands.
-- **Technologies:** SvelteKit, TailwindCSS, NestJS, Prisma ORM, PostgreSQL
-- **Blockchain Integration:** BSV Blockchain, sCrypt for smart contracts
+## 💡 Projects That Shaped Me
 
-### 🌟 [Shizen TODO REST API](https://github.com/shivamani-yamana/SHIZEN-TODO-REST-API)
-A REST API with over 15 endpoints featuring JWT-based authorization and bcrypt encryption.
-- **Technologies:** NestJS, SwaggerUI, Prisma ORM, PostgreSQL
-- **Scalability:** Designed to handle 1,000+ users and tasks
+### 🪙 [Coalition Loyalty Point Issuance MVP](https://github.com/Fluorospek/Coalition-Loyalty-Point-Issuance-Page-for-Brands)  
+Built a decentralized loyalty platform where brands issue tokens that can be redeemed across a coalition of sub-brands.  
+> **Tech:** SvelteKit · TailwindCSS · NestJS · PostgreSQL  
+> **Blockchain:** BSV · sCrypt smart contracts
 
 ---
 
-## 🏅 Certifications
-- **Skilled Blockchain Developer** - Timechain Labs
-- **Bitcoin Script & Enterprise Course Certificates** - BSV Academy
-- **Programming, Data Structures and Algorithms Using Python** - IIT Madras
+### ♟️ [Checkbro – Real-Time Chess Platform](https://github.com/shivamani-yamana/checkbro)  
+Scalable, multiplayer chess game with real-time communication and intelligent reconnects.  
+> **Tech:** React · Node.js · TypeScript · WebSockets
 
 ---
 
-### 🚀 Let's Build the Future of Blockchain Together!
-If you're interested in collaborating or discussing blockchain, feel free to reach out or check out my projects. Let's connect!
+### 📝 [ZenNotes AI – Collaborative Editor](https://github.com/shivamani-yamana/zennotesai)  
+Liveblock-powered blocknote editor with Firestore persistence and secure multi-user sessions.  
+> **Tech:** Next.js 14 · Clerk Auth · Firestore · Zod
 
 ---
 
-## 📈 Visitor Count
+## 🏆 Things I’m Proud Of
+
+- 🥇 **Sudhee 2025 Hackathon** – 1st place among 106+ teams for a grievance portal built in 24 hours  
+- 🎤 **Speaker** at Vidyadhan Alumni Panel (300+ audience including students and corporate mentors)  
+- 🎬 **Freelance Video Editor** – Created high-ticket ad content for fintech clients; best video reached 170k+ views
+
+---
+
+## 📜 Certifications
+
+- **Prompt Design in Vertex AI** – Google Cloud  
+- **Data Structures with Python** – IIT Madras (NPTEL)  
+- **Intro to Software Development** – Coursera  
+
+---
+
+## 🧑‍💻 Code Stats
+
+- **LeetCode:** 305+ problems solved, Top 3.6% globally  
+- **GeeksforGeeks:** 90+ problems, 252 coding score
+
+---
+
+## 🌐 Let's Connect
+
+- 🌍 [Portfolio](https://shivamani.netlify.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivamaniyamana/)  
+- 💻 [GitHub](https://github.com/shivamani-yamana)  
+- 📧 [Email](mailto:shivamaniyamana2003@gmail.com)
+
+---
+
+## 📈 Visitor Count  
 ![Visitor Count](https://komarev.com/ghpvc/?username=shivamani-yamana&color=blue)
